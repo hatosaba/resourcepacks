@@ -11,6 +11,6 @@
 
 1. 変更したいフォルダまで行き、右上で `Add file` から `Upload files` を選択します。※クローンでもOK
 2. ファイルを追加または削除してコミットします。
-3. [actions](https://github.com/azisaba/resourcepacks/actions) の一番上の実行が ✅ になるまで待ちます。
-4. [releases/latest](https://github.com/azisaba/resourcepacks/releases/latest) にリリースされます。
+3. [actions](https://github.com/hatosaba/resourcepacks/actions) の一番上の実行が ✅ になるまで待ちます。
+4. [releases/latest](https://github.com/hatosaba/resourcepacks/releases/latest) にリリースされます。
 5. 完了！^w^
