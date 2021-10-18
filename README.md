@@ -13,4 +13,5 @@
 2. ファイルを追加または削除してコミットします。
 3. [actions](https://github.com/hatosaba/resourcepacks/actions) の一番上の実行が ✅ になるまで待ちます。
 4. [releases/latest](https://github.com/hatosaba/resourcepacks/releases/latest) にリリースされます。
-5. 完了！^w^
+5. https://github.com/hatosaba/resourcepacks/releases/latest/download/<ファイル名>.zip をMinecraftに読み込ませる。
+6. 完了！^w^
