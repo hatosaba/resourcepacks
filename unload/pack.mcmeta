@@ -1,1 +1,6 @@
-{  "pack": {    "pack_format": 3,    "description": "hatosaba_unload_texture"  }}
+{
+    "pack":{
+        "pack_format": 3,
+        "description": "hatosaba_unload_texture"
+    }
+}

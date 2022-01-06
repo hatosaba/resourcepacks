@@ -15,3 +15,15 @@
 4. [releases/latest](https://github.com/hatosaba/resourcepacks/releases/latest) にリリースされます。
 5. https://github.com/hatosaba/resourcepacks/releases/latest/download/<ファイル名>.zip をMinecraftに読み込ませる。
 6. 完了！^w^
+
+## Pack format
+| Pack_format番号 | バージョン | 該当する鯖 |
+| ---- | ---- | ---- |
+| "pack_format": 1 | 1.6.1–1.8.9 |
+| "pack_format": 2 | 1.9–1.10.2 |
+| "pack_format": 3 | 1.11–1.12.2 | 青鬼鯖 |
+| "pack_format": 4 | 1.13–1.14.4 |
+| "pack_format": 5 | 1.15–1.16.1 |
+| "pack_format": 6 | 1.16.2–1.16.5 |
+| "pack_format": 7 | 1.17 |
+| "pack_format": 8 | 1.18 |
