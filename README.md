@@ -7,6 +7,10 @@
 [![Twitter](https://badgen.net/twitter/follow/hatoiroiro?icon=twitter)](https://twitter.com/hatoiroiro)
 [![Discord](https://discord.com/api/guilds/415803587332014082/widget.png)](https://discord.gg/hatosaba)
 
+## ライセンス
+二次配布、自作発言等を**禁止**します。
+詳しくは各リソースパックの`README.md`をご覧ください
+
 ## 変更方法
 
 1. 変更したいフォルダまで行き、右上で `Add file` から `Upload files` を選択します。※クローンでもOK

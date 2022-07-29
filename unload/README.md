@@ -1,0 +1,1 @@
+https://github.com/hatosaba/resourcepacks に準拠します。
